@@ -1,10 +1,13 @@
-# A practice of data analysis about life expectancy
+# 概述
 
+本项目主要是通过对《中国主要年份各地区预期寿命统计》的分析来展示一些数据分析的方法。
 
-本次练习主要是通过对《中国主要年份各地区预期寿命统计》这个表格的分析来展示一些数据分析与展示的方法。
+用于分析的工具涉及Python的几个常用工具包，如Numpy、Pandas、Matplotlib，以及绘制地图用到的basemap
+本次分析产生的图标主要以静态形式为主，后期会考虑增加一些交互效果
 
+# 文件说明
 
-* LifeExpectancy.ipynb 是本次分析的源代码
+* LifeExpectancy.ipynb 是本次分析的源代码，通过jyputer notebook来运行
 * LifeExp.csv 是本次使用到的数据
-* The presentation of data analysis.md 是对分析结果的说明（英文版）
-* 分析结果说明.md 是中文版的结果说明
+* 分析结果说明.md 是对产生的图表结果进行解释的文档
+* The presentation of data analysis.md 是上述分档的英文版
