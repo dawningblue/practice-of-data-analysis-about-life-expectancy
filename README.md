@@ -10,4 +10,4 @@
 * LifeExpectancy.ipynb 是本次分析的源代码，通过jyputer notebook来运行
 * LifeExp.csv 是本次使用到的数据
 * 分析结果说明.md 是对产生的图表结果进行解释的文档
-* The presentation of data analysis.md 是上述分档的英文版
+* The presentation of data analysis.md 是上述文档的英文版
