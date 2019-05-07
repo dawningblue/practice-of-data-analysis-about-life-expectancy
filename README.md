@@ -11,3 +11,6 @@
 * LifeExp.csv 是本次使用到的数据
 * 分析结果说明.md 是对产生的图表结果进行解释的文档
 * The presentation of data analysis.md 是上述文档的英文版
+
+# 补充说明
+如果遇到代码无法展示的情况，请参考这个[issue](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11)
