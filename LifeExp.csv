@@ -1,0 +1,193 @@
+province,year,gender,AvglifeExp,lifeExp
+Beijing,1990,male,72.86,71.07
+Beijing,1990,female,72.86,74.93
+Beijing,2000,male,76.1,74.33
+Beijing,2000,female,76.1,78.01
+Beijing,2010,male,80.18,78.28
+Beijing,2010,female,80.18,82.21
+Tianjin,1990,male,72.32,71.03
+Tianjin,1990,female,72.32,73.73
+Tianjin,2000,male,74.91,73.31
+Tianjin,2000,female,74.91,76.63
+Tianjin,2010,male,78.89,77.42
+Tianjin,2010,female,78.89,80.48
+Hebei,1990,male,70.35,68.47
+Hebei,1990,female,70.35,72.53
+Hebei,2000,male,72.54,70.68
+Hebei,2000,female,72.54,74.57
+Hebei,2010,male,74.97,72.7
+Hebei,2010,female,74.97,77.47
+Shanxi,1990,male,68.97,67.33
+Shanxi,1990,female,68.97,70.93
+Shanxi,2000,male,71.65,69.96
+Shanxi,2000,female,71.65,73.57
+Shanxi,2010,male,74.92,72.87
+Shanxi,2010,female,74.92,77.28
+Nei Mongol,1990,male,65.68,64.47
+Nei Mongol,1990,female,65.68,67.22
+Nei Mongol,2000,male,69.87,68.29
+Nei Mongol,2000,female,69.87,71.79
+Nei Mongol,2010,male,74.44,72.04
+Nei Mongol,2010,female,74.44,77.27
+Liaoning,1990,male,70.22,68.7
+Liaoning,1990,female,70.22,71.94
+Liaoning,2000,male,73.34,71.51
+Liaoning,2000,female,73.34,75.36
+Liaoning,2010,male,76.38,74.12
+Liaoning,2010,female,76.38,78.86
+Jilin,1990,male,67.95,66.65
+Jilin,1990,female,67.95,69.49
+Jilin,2000,male,73.1,71.38
+Jilin,2000,female,73.1,75.04
+Jilin,2010,male,76.18,74.12
+Jilin,2010,female,76.18,78.44
+Heilongjiang,1990,male,66.97,65.5
+Heilongjiang,1990,female,66.97,68.73
+Heilongjiang,2000,male,72.37,70.39
+Heilongjiang,2000,female,72.37,74.66
+Heilongjiang,2010,male,75.98,73.52
+Heilongjiang,2010,female,75.98,78.81
+Shanghai,1990,male,74.9,72.77
+Shanghai,1990,female,74.9,77.02
+Shanghai,2000,male,78.14,76.22
+Shanghai,2000,female,78.14,80.04
+Shanghai,2010,male,80.26,78.2
+Shanghai,2010,female,80.26,82.44
+Jiangsu,1990,male,71.37,69.26
+Jiangsu,1990,female,71.37,73.57
+Jiangsu,2000,male,73.91,71.69
+Jiangsu,2000,female,73.91,76.23
+Jiangsu,2010,male,76.63,74.6
+Jiangsu,2010,female,76.63,78.81
+Zhejiang,1990,male,71.38,69.66
+Zhejiang,1990,female,71.38,74.24
+Zhejiang,2000,male,74.7,72.5
+Zhejiang,2000,female,74.7,77.21
+Zhejiang,2010,male,77.73,75.58
+Zhejiang,2010,female,77.73,80.21
+Anhui,1990,male,69.48,67.75
+Anhui,1990,female,69.48,71.36
+Anhui,2000,male,71.85,70.18
+Anhui,2000,female,71.85,73.59
+Anhui,2010,male,75.08,72.65
+Anhui,2010,female,75.08,77.84
+Fujian,1990,male,68.57,66.49
+Fujian,1990,female,68.57,70.93
+Fujian,2000,male,72.55,70.3
+Fujian,2000,female,72.55,75.07
+Fujian,2010,male,75.76,73.27
+Fujian,2010,female,75.76,78.64
+Jiangxi,1990,male,66.11,64.87
+Jiangxi,1990,female,66.11,67.49
+Jiangxi,2000,male,68.95,68.37
+Jiangxi,2000,female,68.95,69.32
+Jiangxi,2010,male,74.33,71.94
+Jiangxi,2010,female,74.33,77.06
+Shandong,1990,male,70.57,68.64
+Shandong,1990,female,70.57,72.67
+Shandong,2000,male,73.92,71.7
+Shandong,2000,female,73.92,76.26
+Shandong,2010,male,76.46,74.05
+Shandong,2010,female,76.46,79.06
+Henan,1990,male,70.15,67.96
+Henan,1990,female,70.15,72.55
+Henan,2000,male,71.54,69.67
+Henan,2000,female,71.54,73.41
+Henan,2010,male,74.57,71.84
+Henan,2010,female,74.57,77.59
+Hubei,1990,male,67.25,65.51
+Hubei,1990,female,67.25,69.23
+Hubei,2000,male,71.08,69.31
+Hubei,2000,female,71.08,73.02
+Hubei,2010,male,74.87,72.68
+Hubei,2010,female,74.87,77.35
+Hunan,1990,male,66.93,65.41
+Hunan,1990,female,66.93,68.7
+Hunan,2000,male,70.66,69.05
+Hunan,2000,female,70.66,72.47
+Hunan,2010,male,74.7,72.28
+Hunan,2010,female,74.7,77.48
+Guangdong,1990,male,72.52,69.71
+Guangdong,1990,female,72.52,75.43
+Guangdong,2000,male,73.27,70.79
+Guangdong,2000,female,73.27,75.93
+Guangdong,2010,male,76.49,74
+Guangdong,2010,female,76.49,79.37
+Guangxi,1990,male,68.72,67.17
+Guangxi,1990,female,68.72,70.34
+Guangxi,2000,male,71.29,69.07
+Guangxi,2000,female,71.29,73.75
+Guangxi,2010,male,75.11,71.77
+Guangxi,2010,female,75.11,79.05
+Hainan,1990,male,70.01,66.93
+Hainan,1990,female,70.01,73.28
+Hainan,2000,male,72.92,70.66
+Hainan,2000,female,72.92,75.26
+Hainan,2010,male,76.3,73.2
+Hainan,2010,female,76.3,80.01
+Chongqing,1990,male,66.33,65.06
+Chongqing,1990,female,66.33,67.7
+Chongqing,2000,male,71.73,69.84
+Chongqing,2000,female,71.73,73.89
+Chongqing,2010,male,75.7,73.16
+Chongqing,2010,female,75.7,78.6
+Sichuan,1990,male,,
+Sichuan,1990,female,,
+Sichuan,2000,male,71.2,69.25
+Sichuan,2000,female,71.2,73.39
+Sichuan,2010,male,74.75,72.25
+Sichuan,2010,female,74.75,77.59
+Guizhou,1990,male,64.29,63.04
+Guizhou,1990,female,64.29,65.63
+Guizhou,2000,male,65.96,64.54
+Guizhou,2000,female,65.96,67.57
+Guizhou,2010,male,71.1,68.43
+Guizhou,2010,female,71.1,74.11
+Yunnan,1990,male,63.49,62.08
+Yunnan,1990,female,63.49,64.98
+Yunnan,2000,male,65.49,64.24
+Yunnan,2000,female,65.49,66.89
+Yunnan,2010,male,69.54,67.06
+Yunnan,2010,female,69.54,72.43
+Xizang,1990,male,59.64,57.64
+Xizang,1990,female,59.64,61.57
+Xizang,2000,male,64.37,62.52
+Xizang,2000,female,64.37,66.15
+Xizang,2010,male,68.17,66.33
+Xizang,2010,female,68.17,70.07
+Shaanxi,1990,male,67.4,66.23
+Shaanxi,1990,female,67.4,68.79
+Shaanxi,2000,male,70.07,68.92
+Shaanxi,2000,female,70.07,71.3
+Shaanxi,2010,male,74.68,72.84
+Shaanxi,2010,female,74.68,76.74
+Gansu,1990,male,67.24,66.35
+Gansu,1990,female,67.24,68.25
+Gansu,2000,male,67.47,66.77
+Gansu,2000,female,67.47,68.26
+Gansu,2010,male,72.23,70.6
+Gansu,2010,female,72.23,74.06
+Qinghai,1990,male,60.57,59.29
+Qinghai,1990,female,60.57,61.96
+Qinghai,2000,male,66.03,64.55
+Qinghai,2000,female,66.03,67.7
+Qinghai,2010,male,69.96,68.11
+Qinghai,2010,female,69.96,72.07
+Ningxia Hui,1990,male,66.94,65.95
+Ningxia Hui,1990,female,66.94,68.05
+Ningxia Hui,2000,male,70.17,68.71
+Ningxia Hui,2000,female,70.17,71.84
+Ningxia Hui,2010,male,73.38,71.31
+Ningxia Hui,2010,female,73.38,75.71
+Xinjiang Uygur,1990,male,63.59,61.95
+Xinjiang Uygur,1990,female,63.59,63.26
+Xinjiang Uygur,2000,male,67.41,65.98
+Xinjiang Uygur,2000,female,67.41,69.14
+Xinjiang Uygur,2010,male,72.35,70.3
+Xinjiang Uygur,2010,female,72.35,74.86
+All,1990,male,68.55,66.84
+All,1990,female,68.55,70.47
+All,2000,male,71.4,69.63
+All,2000,female,71.4,73.33
+All,2010,male,74.83,72.38
+All,2010,female,74.83,77.37
