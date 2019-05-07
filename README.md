@@ -13,4 +13,4 @@
 * The presentation of data analysis.md 是上述文档的英文版
 
 # 补充说明
-如果遇到代码无法展示的情况，请参考这个[issue](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11)
+notebook格式的文件在Github显示会是不是的出现问题，如果遇到代码无法展示的情况，请参考这个[issue](https://github.com/iurisegtovich/PyTherm-applied-thermodynamics/issues/11)
