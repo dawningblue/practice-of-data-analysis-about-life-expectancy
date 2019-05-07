@@ -8,7 +8,7 @@ The data comes from the China Health and Family Planning Statistical Digest (201
 
 ![avglifebydecades.png](https://www.z4a.net/images/2019/05/07/avglifebydecades.png)
 
-As we can see from the picture , the life expectancy has increased from 68 to 74 during the past 30 years , for 3 yeasrs every decade.The most likely reason for this may be the rappid development of the economic. 
+As we can see from the picture , the life expectancy has increased from 68 to 74 during the past 30 years , for 3 years every decade.The most likely reason for this may be the rappid development of the economic. 
 Let us propose a  hypothesis that——the life expectancy is positively correlated with economic development level . And this hypothesis will be the further validated later in this report.
 
 
